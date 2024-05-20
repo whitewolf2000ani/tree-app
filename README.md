@@ -17,19 +17,22 @@ Node.js and npm (or yarn) installed on your system. You can download them from t
 
 Clone the Repository:
 
-    Bash
+Bash
+
     git clone git@github.com:whitewolf2000ani/tree-app.git
 
 Install Dependencies:
 
-    Bash
+Bash
+
     cd tree-app
     npm install react-flow (or yarn add react-flow)
     npm install (or yarn install)
 
 Start the Development Server:
 
-    Bash
+Bash
+
     npm run start (or yarn start)
 
 This will launch the development server, typically running at http://localhost:3000 by default. Open this URL in your browser to view the dynamic tree with React Flow integration.
