@@ -18,7 +18,7 @@ Node.js and npm (or yarn) installed on your system. You can download them from t
 Clone the Repository:
 
     Bash
-    git@github.com:whitewolf2000ani/tree-app.git
+    git clone git@github.com:whitewolf2000ani/tree-app.git
 
 Install Dependencies:
 
