@@ -92,8 +92,11 @@ Event Handling: Implement event handlers to capture user interactions with the t
 Further Development
 
 This project serves as a foundation for building more complex interactive tree structures with React Flow. Here are some potential enhancements:
+
 Drag-and-Drop Connections: Refine the connection logic to seamlessly connect nodes within React Flow based on user interactions.
+
 Edge Styling: Customize the appearance of connections between nodes.
+
 Node Labels: Allow users to edit node labels directly within React Flow.
 
 Contributing
