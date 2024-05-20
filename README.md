@@ -42,6 +42,7 @@ Usage
 The project provides a DynamicTree component that you can integrate into your React application. You can customize the component's behavior and appearance by passing props. Here's an example:
 
 JavaScript
+
     import React from 'react';
     import ReactFlow, { Elements } from 'react-flow'; // Import React Flow
     import DynamicTree from './DynamicTree'; // Import your custom DynamicTree component
