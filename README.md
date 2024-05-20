@@ -1,7 +1,8 @@
 ## React Dynamic Tree with React Flow
 
 This React project demonstrates the creation of a dynamic tree structure using the powerful React Flow library. It enables you to add, remove, and manipulate nodes visually, fostering a user-friendly experience.
-![Alt text](tree-app/public/image.png)
+![image](https://github.com/whitewolf2000ani/tree-app/assets/116947102/9142a0f8-bf24-4a8f-90b2-8604a9c97ca7)
+
 
 Features:
 Dynamic Node Creation: Users can add new nodes at any level of the tree, offering flexibility.
