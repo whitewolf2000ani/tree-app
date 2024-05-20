@@ -2,7 +2,6 @@
 
 This React project demonstrates the creation of a dynamic tree structure using the powerful React Flow library. It enables you to add, remove, and manipulate nodes visually, fostering a user-friendly experience.
 
-
 Features:
 Dynamic Node Creation: Users can add new nodes at any level of the tree, offering flexibility.
 Interactive Expansion/Collapse: Nodes can be expanded or collapsed to reveal or hide nested children, improving organization and navigation.
@@ -94,9 +93,7 @@ Further Development
 This project serves as a foundation for building more complex interactive tree structures with React Flow. Here are some potential enhancements:
 
 Drag-and-Drop Connections: Refine the connection logic to seamlessly connect nodes within React Flow based on user interactions.
-
 Edge Styling: Customize the appearance of connections between nodes.
-
 Node Labels: Allow users to edit node labels directly within React Flow.
 
 Contributing
