@@ -23,7 +23,7 @@ Clone the Repository:
 Install Dependencies:
 
     Bash
-    cd src
+    cd tree-app
     npm install react-flow (or yarn add react-flow)
     npm install (or yarn install)
 
