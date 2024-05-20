@@ -1,7 +1,7 @@
 React Dynamic Tree with React Flow
 
 This React project demonstrates the creation of a dynamic tree structure using the powerful React Flow library. It enables you to add, remove, and manipulate nodes visually, fostering a user-friendly experience.
-![alt text](image.png)
+
 
 Features:
 Dynamic Node Creation: Users can add new nodes at any level of the tree, offering flexibility.
@@ -9,25 +9,27 @@ Interactive Expansion/Collapse: Nodes can be expanded or collapsed to reveal or 
 Customizable Node Content: Tailor the content displayed within each node to suit your specific data and requirements.
 Lightweight and Efficient: The project is designed to be performant, ensuring smooth operation even with large tree structures.
 Visual Node Manipulation (React Flow): Leverage drag-and-drop functionality to create connections between nodes, visualize relationships, and manage the tree structure intuitively.
+
 Getting Started
 
 Prerequisites:
 Node.js and npm (or yarn) installed on your system. You can download them from the official website: https://nodejs.org/en
+
 Clone the Repository:
 
-Bash
+    Bash
     git@github.com:whitewolf2000ani/tree-app.git
 
 Install Dependencies:
 
-Bash
+    Bash
     cd src
     npm install react-flow (or yarn add react-flow)
     npm install (or yarn install)
 
 Start the Development Server:
 
-Bash
+    Bash
     npm run start (or yarn start)
 
 This will launch the development server, typically running at http://localhost:3000 by default. Open this URL in your browser to view the dynamic tree with React Flow integration.
